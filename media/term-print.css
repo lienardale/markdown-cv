@@ -136,7 +136,8 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #50cacd;
+	color: black;
+	font-weight: bold;
 	margin-top: 3em;
 	margin-bottom: 0.8em;
 	position: relative;
@@ -246,12 +247,13 @@ p,h3,ul,.reach_me{
 	border-style: solid;
 	width: 20vw;
 	height: 20vw;
+	object-fit: cover;
 }
 
 .reach_me {
 	margin: 2vh 0 2vh 0;
 	position: relative;
-	font-weight: bold;
+	/* font-weight: bold; */
 }
 
 .reach_me > * {
@@ -260,7 +262,7 @@ p,h3,ul,.reach_me{
 }
 
 .reach_me i {
-	font-size: 3vw;
+	font-size: 2vw;
 	margin: 0 5px 0 0;
 }
 

@@ -13,7 +13,6 @@ title: Alexandre Lienard's CV
 # Alexandre Lienard  
   
 </div>
-<br></br>
 <div class="reach_me">
 <div><i class="fas fa-phone-alt"></i> +33 6 78 35 36 59 </div>
 <div><i class="fas fa-envelope"></i><a href="mailto:alienard@student.42.fr" title="alienard@student.42.fr"> alienard@student.42.fr </a></div>

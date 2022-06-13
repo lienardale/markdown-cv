@@ -142,6 +142,7 @@ h2 {
 	position: relative;
 	text-align: left;
 	width: 100%;
+	font-weight: bold;
 }
 
 h3 {
@@ -246,12 +247,13 @@ p,h3,ul,.reach_me{
 	border-style: solid;
 	width: 20vw;
 	height: 20vw;
+	object-fit: cover;
 }
 
 .reach_me {
 	margin: 2vh 0 2vh 0;
 	position: relative;
-	font-weight: bold;
+	/* font-weight: bold; */
 }
 
 .reach_me > * {
@@ -260,7 +262,7 @@ p,h3,ul,.reach_me{
 }
 
 .reach_me i {
-	font-size: 3vw;
+	font-size: 2vw;
 	margin: 0 5px 0 0;
 }
 
