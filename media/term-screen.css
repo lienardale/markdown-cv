@@ -136,7 +136,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #50cacd;
+	color: black;
 	margin-top: 3em;
 	margin-bottom: 0.8em;
 	position: relative;
@@ -179,7 +179,7 @@ em {
 }
 
 strong {
-	color: rgb(43, 43, 77);
+	color: black;
 	font-weight: bold;
 }
 
@@ -245,6 +245,7 @@ p,h3,ul,.reach_me{
 	border-color: black;
 	border-style: solid;
 	width: 20vw;
+	height: 20vw;
 }
 
 .reach_me {
@@ -269,11 +270,11 @@ p,h3,ul,.reach_me{
 
 h2:before {
 	content: "~ ";
-	color: #80c990;
+	color: black;
 }
 
 .right h1{
-	color: rgb(43, 43, 77);
+	color: black;
 	left: 0;
 }
 

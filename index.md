@@ -10,28 +10,26 @@ title: Alexandre Lienard's CV
 <div class="photo">
 <img id="photo" src="./assets/img/alienard.jpg">
 </div>
-# Alexandre Lienard
-
+# Alexandre Lienard  
+  
 </div>
-
-<div class="contact_me">
-<div><i class="fas fa-phone-alt"></i>+33 6 78 35 36 59</div>
-<div><i class="fas fa-envelope"></i><a href="mailto:alienard@student.42.fr" title="alienard@student.42.fr">alienard@student.42.fr</a></div>
-<div><i class="fab fa-firefox-browser"></i><a href="https://alienard.fr">alienard.fr</a></div>
-<div><i class="fab fa-github"></i><a href="https://github.com/lienardale">github.com/lienardale</a></div>
-<div><i class="fab fa-linkedin"></i><a href="https://linkedin.com/in/alienard">linkedin.com/in/alienard</a></div>
+<br></br>
+<div class="reach_me">
+<div><i class="fas fa-phone-alt"></i> +33 6 78 35 36 59 </div>
+<div><i class="fas fa-envelope"></i><a href="mailto:alienard@student.42.fr" title="alienard@student.42.fr"> alienard@student.42.fr </a></div>
+<div><i class="fab fa-firefox-browser"></i><a href="https://alienard.fr"> alienard.fr</a></div>
+<div><i class="fab fa-github"></i><a href="https://github.com/lienardale"> github.com/lienardale</a></div>
+<div><i class="fab fa-linkedin"></i><a href="https://linkedin.com/in/alienard"> linkedin.com/in/alienard</a></div>
 </div>
 
 ## Languages
-|     |     |
-|---  |---  |
-|C    |C++  |
-|Typescript  |Bash  |
-|NodeJS|ExpressJS|
-|ReactJS|NextJS|
-|Postgres|MySQL|
-|TypeORM|Prisma|
-|Docker|Git|
+  C,      C++,    
+  Typescript,    Bash,    
+  NodeJS,  ExpressJS,  
+  ReactJS,  NextJS,  
+  Postgres,  MySQL,  
+  TypeORM,  Prisma,  
+  Docker,  Git  
 
 ## Soft Skills
 
@@ -59,7 +57,8 @@ Podcasts
 
 
 <div markdown="1" class="right">
-# Fullstack web developer  
+# Fullstack web developer   
+    
 looking for 6 months internship / permanent position  
 available now
 
@@ -72,30 +71,30 @@ Eager to learn through challenging projects and to meet the team I'll grow with.
 
 ## Academics
 
-`2019 - now`  
+`2019 - now`
 __42 Schools of Developers__  
 42 network common-core
 
-`2014 - 2017`  
+`2014 - 2017`
 __IAE Lille__  
 Masters in International Marketing & Communication  
 
 ## Work Experience
 
-`2019 - 2022`  
+`2019 - 2022`
 __Business Manager - Junior 42 Paris__  
 - In charge of business development, I created and improved workflows that resulted in an increase of incoming projects (+78%).
 - I also developed, automatized and improved the qualification processes. Which resulted in + 56% prospects converting to clients.
 - I recruited, trained and managed 32 people in the fields of business development and project management.
 
 
-`2018 - 2019`  
+`2018 - 2019`
 __Product Manager - ESF Sciences Humaines__  
 - Business Strategy (diversify acquisition sources)
 - Business Analysis (value chain analysis & - optimisation)
 - Digital Marketing (increase traffic & conversion)
 
-`2015 - 2017`  
+`2015 - 2017`
 __Marketing Assistant - Denoël__  
 - Brand Identity (makeover supervision)
 - Sales promotion (product launches & stock valorisation)
