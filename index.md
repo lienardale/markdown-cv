@@ -21,7 +21,7 @@ title: Alexandre Lienard's CV
 <div><i class="fab fa-linkedin"></i><a href="https://linkedin.com/in/alienard"> linkedin.com/in/alienard</a></div>
 </div>
 
-## Languages
+## Stack
   C,      C++,    
   Typescript,    Bash,    
   NodeJS,  ExpressJS,  
