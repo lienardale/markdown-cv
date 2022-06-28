@@ -21,23 +21,28 @@ title: Alexandre Lienard's CV
 <div><i class="fab fa-linkedin"></i><a href="https://linkedin.com/in/alienard"> linkedin.com/in/alienard</a></div>
 </div>
 
-## Stack
+## Dev Skills
+  Proficient :    
   C,      C++,    
-  Typescript,    Bash,    
-  NodeJS,  ExpressJS,  
-  ReactJS,  NextJS,  
-  Postgres,  MySQL,  
-  TypeORM,  Prisma,  
-  Docker,  Git  
+  ReactJS,      Bash,    
+  Docker,      Git      
+    
+  Intermediate :    
+  Typescript,    NextJS,    
+  Postgres,  TypeORM    
+    
+  Beginner : 
+  NestJS,    ExpressJS,    
+  MySQL,    Prisma    
+
 
 ## Soft Skills
 
-Diplomacy  
-Adaptability  
-Negociation  
-Project Management  
-Team Management  
-Crisis Management  
+Stakeholder mgmt   
+Adaptability   
+Project mgmt   
+Crisis mgmt   
+
 
 ## Languages
 
@@ -99,19 +104,24 @@ __Marketing Assistant - Denoël__
 - Sales promotion (product launches & stock valorisation)
 - Business analysis (annual budget & costs optimisation)
 
-## Projects
+## PROJECTS
+- MULTIPLAYER ONLINE PONG | [Github](https://github.com/lienardale/ft_transcendence), [roland-garrong.fr](https://roland-garrong.fr)
+  - Implementing game, chat, identification, and friend requests 
+  - Typescript - ReactJs - NestJs - Postgres - Docker - Nginx
+  - 5 contributors - 11 702 lines - 926 commits
+- WEB SERVER | [Github](https://github.com/lienardale/webserv) 
+  - Implementing headers, body, CGI and upload/download handling
+  - C++ - Php
+  - 3 contributors - 6 604 lines - 405 commits
+- RAY_TRACER | [Github](https://github.com/lienardale/mini_rt) 
+  - Implementing basic forms, lights (ambient & directive) and shadows
+  - C - minilibX
+  - solo - 2 253 lines - 53 commits
+- SHELL | [Github](https://github.com/lienardale/minishell) 
+  - Implementing pipes, redirections, environnement and built-ins 
+  - C - Bash
+  - 2 contributors -  6061 lines - 357 commits
 
-- [Transcendence](https://github.com/lienardale/ft_transcendence) (fullstack web platform, deployed at [roland-garrong.fr](https://roland-garrong.fr))   
-        Typescript - ReactJs - NestJs - Postgres - Docker - Nginx  
-          
-- [Webserv](https://github.com/lienardale/webserv) (web server from scratch with CGI handling)
-		C++ - Php
-  
-- [Mini_RT](https://github.com/lienardale/mini_rt) (ray_tracer : forms, lights (ambiant & directive), shadows)
-	C - minilibX
-      
-- [Mini_shell](https://github.com/lienardale/minishell) (shell with pipes, redirections, environnement & built-ins)
-		C - Bash
 
 <!-- ### Footer
 
