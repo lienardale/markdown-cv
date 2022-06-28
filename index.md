@@ -31,7 +31,7 @@ title: Alexandre Lienard's CV
   Typescript,    NextJS,    
   Postgres,  TypeORM    
     
-  Beginner : 
+  Beginner :    
   NestJS,    ExpressJS,    
   MySQL,    Prisma    
 
